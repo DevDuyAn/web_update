@@ -1,0 +1,13 @@
+/* update.html */
+h1{
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: capitalize;
+}
+a[href]{
+    color:rgb(49, 9, 87);
+    background-color: aquamarine;
+    padding: 6px 1px;
+    border-color:black;
+    border: 1px;
+}
